@@ -1,0 +1,22 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoharto/Responsive-Portfolio-Website.git"
+  },
+  "author": "Bayes Ahmed Shoharto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoharto/Responsive-Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/shoharto/Responsive-Portfolio-Website#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
