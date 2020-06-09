@@ -1,6 +1,8 @@
-# Responsive Portfolio Website With :: | HTML5 | CSS3 | Sass | npm | JS | Git |
+![Multi Device Website Mockup ](https://user-images.githubusercontent.com/23438431/84176960-c38f3900-aab4-11ea-8c68-b88d4e0cdcf8.png)
 
-This is very simple project about data Create, read, update and delete operations using Javascript.
+## Responsive Portfolio Website
+
+This is very simple project about Responsive Portfolio Website With :: | HTML5 | CSS3 | Sass | npm | JS | Git |
 
 ## Deployment
 
@@ -8,8 +10,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dexie.js](https://dexie.org/) - A Minimalistic Wrapper for IndexedDB
-* [JavaScript](#) - JavaScript
+* [HTML5](#) 
+* [CSS3](#) 
+* [Sass](#) 
+* [npm](#) 
+* [JavaScript](#) 
 
 ## Authors
 
@@ -22,6 +27,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* I learnt this one from youTube channel named [DailyTuition]
+* I learnt this one from youTube.
 
 
