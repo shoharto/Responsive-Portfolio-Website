@@ -16,6 +16,16 @@ Add additional notes about how to deploy this on a live system
 * [npm](#) 
 * [JavaScript](#) 
 
+
+## Installation
+
+Some basic npm commands are:
+```
+npm init
+npm install node-sass
+npm run sass
+```
+
 ## Authors
 
 * **Bayes Ahmed Shoharto** - *Initial work* - [shoharto](https://github.com/shoharto/)
